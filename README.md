@@ -1,7 +1,7 @@
 ## About Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HisAtri&show_icons=true" style="height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HisAtri&layout=compact" style="height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HisAtri&show_icons=true" style="height: 180px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HisAtri&layout=compact" style="height: 180px;"/>
 </p>
 
 ## My Repos
